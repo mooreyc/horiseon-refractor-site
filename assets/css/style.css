@@ -93,13 +93,13 @@ semantic HTML structure
 hero image
 */
 
-.hero {
+div.hero {
+    margin-bottom: 25px;
+}
+div.hero image {
     height: 800px;
     width: 100%;
-    margin-bottom: 25px;
-    background-image: url("..images/digital-marketing-meeting.jpg");
-    background-size: cover; 
-    background-position: center;
+    object-fit: cover;
 }
 
 /*
@@ -123,6 +123,7 @@ aside.benefits article.benefit {
 }
 
 aside.benefits article.benefit h2 {
+    font-size: 1.2rem;
     margin-bottom: 10px;
     text-align: center;
 }
