@@ -28,7 +28,7 @@ THEN I find a concise, descriptive title
 
 ```
 - Added a more elaborate title.
-- Just as requested in the acceptance criteria, find semantic HTML elements.
+- Just as requested in the acceptance criteria, add semantic HTML elements.
 - Changed the h3 tags to h2 tags in the aside element and made font smaller.
 - Reorganized CSS file to better match the sections in the index.
 - Fixed missing id to make menu link work correctly.
