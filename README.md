@@ -1,12 +1,15 @@
 # horiseon-refractor-site
 
 ## User story
+
 '''
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 '''
+
 ## Acceptance Criteria
+
 '''
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
@@ -20,6 +23,7 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 '''
+
 ## Source code changes
 - Added a more elaborate title.
 - Just as requested in the acceptance criteria, find semantic HTML elements.
