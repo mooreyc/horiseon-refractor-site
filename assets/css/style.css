@@ -21,31 +21,7 @@ p {
     font-size: 16px;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px
-}
 
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
-
-/*
-To hide data that is meant only to be seen by a screen reader or to complete
-semantic HTML structure
-*/
-
-
-.screen-reader {
-    position: absolute;
-    left: -10000px; 
-    top: auto;
-    width: 1px;
-    height: 1px;
-    overflow: hidden; 
-}
 
 
 /*
